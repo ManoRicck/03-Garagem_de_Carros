@@ -1,10 +1,5 @@
 https://github.com/user-attachments/assets/b4076aac-711d-4acc-b6f4-cf5ff4ddc4bc
 
-# 🚗 Garagem de Carros - Projeto Interativo  
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxZ2R1d3N6YzF3eHl1b2V5dWx2dGJ6eGJ6dWZ5a3R5Z2NlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2vlgqUhWQlUwU/giphy.gif" alt="Car Animation" height="300">  
-</div>  
 
 <h1 align="center">  
   🚗 Garagem de Carros - Catálogo Digital  
@@ -37,17 +32,11 @@ Este projeto apresenta uma garagem digital com diversos modelos de carros organi
 
 Catálogo digital de carros com:  
 - 🖼️ **Galeria de veículos** (esportivos, clássicos, luxo)  
-- 🔍 **Sistema de filtros** (por marca, ano, tipo)  
-- 💡 **Detalhes expandidos** ao clicar em cada carro  
+- 🔍 **Descrição** (por marca, ano, tipo)  
+- 💡 **Detalhes expandidos** em cada carro  
 
 ---  
 
-## 🎮 Como Usar  
-- 🔎 **Filtros**: Selecione categoria desejada  
-- 🖱️ **Clique no carro**: Expande informações detalhadas  
-- 📱 **Responsivo**: Funciona em mobile e desktop  
-
----  
 
 ## 📦 Estrutura do Projeto  
 
@@ -72,7 +61,7 @@ Catálogo digital de carros com:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/02-Five_Nights_at_Freddys.git
+git clone https://github.com/ManoRicck/03-Garagem_de_Carros.git
 ```
 2. Execute o arquivo html:
 ```bash
