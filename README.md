@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/b4076aac-711d-4acc-b6f4-cf5ff4ddc4bc
   <img src="https://i.pinimg.com/originals/27/2a/74/272a7442662ceedd242ac93a9f6eecb5.gif" alt="Carro" height="200">
 </div>
 <h1 align="center">  
-  🚗 Garagem de Carros - Catálogo Digital  
+  Garagem de Carros - Catálogo Digital  
 </h1>  
 
 <div align="center">  
