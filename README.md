@@ -42,13 +42,12 @@ Catálogo digital de carros com:
 
 ```tree
 ├── Garagem-de-Carros/
-│   ├── assets/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   └── img/
-│   │       ├── car1.jpg
-│   │       ├── car2.jpg
-│   │       └── ...
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│   │    ├── car1.jpg
+│   │    ├── car2.jpg
+│   │    └── ...
 │   ├── js/
 │   │   └── script.js
 │   ├── index.html
